@@ -23,6 +23,7 @@ class ViewController: UIViewController {
 
     
     var questions = [ " What is your name ?",
+    "WHATS YOUR MOMS NAME",
     
     "How many friends do you have ? ",
     
